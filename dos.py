@@ -6,7 +6,7 @@ from datetime import datetime
 
 # Limpeza de tela e título (opcional)
 os.system("clear" if os.name == "posix" else "cls")
-os.system("figlet GMKR-Ddos" if os.name == "posix" else "")
+os.system("figlet Natan-DDOS" if os.name == "posix" else "")
 
 print("Coded By : Natan")
 print("Author   : Natan")
