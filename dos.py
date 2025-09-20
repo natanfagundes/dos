@@ -22,7 +22,7 @@ bytes_data = random._urandom(1490)
 
 # Mensagens de simulação
 os.system("clear" if os.name == "posix" else "cls")
-os.system("figlet GMKR-Ddos" if os.name == "posix" else "")
+os.system("figlet Natan-DDOS" if os.name == "posix" else "")
 print("\033[92m")
 print("________________TRYING TO REACH THE SERVER_____________________")
 time.sleep(2)
