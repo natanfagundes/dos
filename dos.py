@@ -11,7 +11,7 @@ os.system("figlet Natan-DDOS" if os.name == "posix" else "")
 print("Coded By : Natan")
 print("Author   : Natan")
 print("Github   : github.com/natanfagundes")
-print("Note: This is for educational purposes only. Use responsibly.\n")
+print("Note: This is for educational purposes only. Use responsibly.\n Use com responsabilidade\n")
 
 ip = input("IP Target : ")
 port = int(input("Port      : "))
